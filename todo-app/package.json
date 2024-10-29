@@ -1,0 +1,19 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leander Steffan",
+  "license": "ISC",
+  "description": "This is a simple-to-do list",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "@ljharb/tsconfig": "^0.2.0",
+    "typescript": "^5.6.3"
+  }
+}
