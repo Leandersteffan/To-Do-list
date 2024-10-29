@@ -45,9 +45,9 @@ package.json: Defines dependencies (express, typescript, etc.) and project infor
 
 Setup
 1. Navigate into the todo-app directory in terminal
-2. Install Dependencies: Run npm install express to install the required packages.
-3. Run the Server: Use node index.js to start the server.
-4. Access the App: Open http://localhost:3000 in your browser to use the app.
+2. Run the Server: Use "node index.js" to start the server.
+3. Access the App: Open http://localhost:3000 in your browser to use the app.
+4. (Troubleshooting: If the app does not work, ensure there are no other processes running on localhost:3000. If this is not the issue, verify that all dependencies are installed by running npm install)
 
 Author
 
