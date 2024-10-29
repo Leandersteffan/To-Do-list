@@ -19,13 +19,6 @@ Frontend: HTML5, CSS3, and Vanilla JavaScript
 No Database: Data is stored in-memory on the server, so tasks are reset when the server restarts.
 
 Project Structure
-todo-app/
-├── public/
-│   ├── index.html          # Main HTML file
-│   └── app.js              # Frontend JavaScript handling user interactions
-├── index.js                # Backend server and API setup
-├── package.json            # Project metadata and dependencies
-└── node_modules/           # Project dependencies
 
 public/index.html: Provides the structure and layout for the To-Do list UI. Includes an input field, buttons for task actions, and a styled list for tasks.
 
